@@ -1,0 +1,23 @@
+{
+  "model": "mlx-community/Qwen2.5-0.5B-Instruct-4bit",
+  "device": "Device(gpu, 0)",
+  "power_measured": false,
+  "prefill_tokens_per_s": 7178.069039898071,
+  "decode_tokens_per_s": 385.53908447951545,
+  "prefill_j_per_token": 0.004179396970585003,
+  "decode_j_per_token": 0.07781312247628674,
+  "raw": {
+    "prefill": {
+      "seconds": 0.14265674992930144,
+      "generated": 1,
+      "watts": 30.0,
+      "measured": false
+    },
+    "full": {
+      "seconds": 0.8040682909777388,
+      "generated": 256,
+      "watts": 30.0,
+      "measured": false
+    }
+  }
+}
